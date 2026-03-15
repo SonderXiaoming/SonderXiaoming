@@ -9,7 +9,7 @@
 [![统计](https://github-readme-stats.vercel.app/api?username=SonderXiaoming&show_icons=true&theme=buefy&custom_title=Github%20Stats~&card_width=405)](https://github.com/SonderXiaoming)
 
 <a href="https://github.com/SonderXiaoming">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonderXiaoming&show_icons=true&layout=compact&custom_title=use%20languages~&card_width=435" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonderXiaoming&show_icons=true&layout=compact&custom_title=Languages~&card_width=435" />
 </a>
 
 > Ciallo (∠·ω )⌒★！This is my Github homepage
@@ -22,4 +22,4 @@
 
 [![贡献图](https://github-readme-activity-graph.vercel.app/graph?username=SonderXiaoming&theme=github-light)](https://github.com/SonderXiaoming)
 
-[![评级图](https://github-profile-trophy-tawny.vercel.app/?username=SonderXiaoming&column=8&row=1&margin-w=15&margin-h=15&no-frame=true)]
+[![评级图](https://github-profile-trophy-tawny.vercel.app/?username=SonderXiaoming&column=8&row=1&margin-w=15&margin-h=15&no-frame=true)](https://github.com/SonderXiaoming)
